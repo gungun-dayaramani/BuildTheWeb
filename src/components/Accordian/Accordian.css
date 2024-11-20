@@ -1,0 +1,12 @@
+.accordian{
+    width: 100%;
+    padding: 50px 200px;
+
+    h2{
+        text-align: start;
+        padding-top: 20px;
+        padding-left: 200px;
+        margin-bottom: 20px;
+        color: #333;
+    }
+}
